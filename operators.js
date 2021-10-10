@@ -2,7 +2,7 @@
 
 // Update Operators
 
-// logical
+// Logical
 
 // $inc -> increment
 // $min => minimum ->
