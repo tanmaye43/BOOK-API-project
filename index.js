@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-// Frame work
+// Frame Work
 const express = require("express");
 const mongoose = require("mongoose");
 
